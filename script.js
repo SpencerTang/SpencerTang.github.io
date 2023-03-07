@@ -550,36 +550,25 @@ function randomIdx(arr) {
 
 function generateWinningMessage(winningRow) {
   const generalPraises = [
-    'You Won!',
-    'Great Job!',
-    'You Rock!',
-    'Pure Genius!',
-    'Wonderful',
-    'Beautiful!',
-    'Gold Star!',
-    'Nice!',
-    'Very Cool!',
-    'You got it!',
-    'Keep it up!',
-    'wow!',
-    'incredible!',
-    'cheers!',
-    'Magnificent!',
-    'Impressive!',
-    'Splendid!',
-    'Way To Go!',
+    'You Won thirak!',
+    'Great Job baby princess!',
+    'You Rock angel!',
+    'Wonderful king of all beasts and fishes of the sea!',
+    'Beautiful lady boy!',
   ];
   const lastLinePraises = [
-    'phew!',
-    'close call!',
-    'I was worried about you there!',
+    'You Won thirak!',
+    'Great Job baby princess!',
+    'You Rock angel!',
+    'Wonderful king of all beasts and fishes of the sea!',
+    'Beautiful lady boy!',
   ];
   const firstLinePraises = [
-    'impossible!',
-    "I can't believe it!",
-    "How'd you know?!",
-    'genius!',
-    'Cheater!',
+    'You Won thirak!',
+    'Great Job baby princess!',
+    'You Rock angel!',
+    'Wonderful king of all beasts and fishes of the sea!',
+    'Beautiful lady boy!',
   ];
 
   return winningRow == 0

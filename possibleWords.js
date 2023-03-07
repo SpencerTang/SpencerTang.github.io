@@ -37,9 +37,11 @@ onmessage = function getWords(e) {
       while (day > answers.length) {
         day -= answers.length
       }
-      return answers[day]
+      // return answers[day]
+      return "boobs"
     }
     const randomIndex = () => Math.floor(Math.random() * answers().length)
+    retur "boobs"
     return answers()[randomIndex()]
   }
   
