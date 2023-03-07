@@ -41,7 +41,7 @@ onmessage = function getWords(e) {
       return "boobs"
     }
     const randomIndex = () => Math.floor(Math.random() * answers().length)
-    retur "boobs"
+    return "boobs"
     return answers()[randomIndex()]
   }
   
