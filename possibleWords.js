@@ -22,6 +22,7 @@ onmessage = function getWords(e) {
         if (query.length !== 5) {
           alert(`Incorrect word length from encoded query. ${defaultMessage}`)
         } else {
+          return "boobs"
           return query
         }
       } catch (e) {
