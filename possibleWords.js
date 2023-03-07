@@ -6,7 +6,8 @@ onmessage = function getWords(e) {
 
     const possibleWordsMap = new Map(possibleWords().map(val => [val,val]))
   
-    const randomWord = getWord()
+    // const randomWord = getWord()
+    const randomWord = "boobs";
   
     postMessage({
       possibleWordsMap,
